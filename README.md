@@ -4,5 +4,5 @@ Este repositorio contiene mi página para la evaluación final del curso de Git 
 
 ## Ver la página
 
-https://gloriacocio200811-bloop.github.io
+https://gloriacocio200811-boop.github.io
 
